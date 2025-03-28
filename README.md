@@ -59,21 +59,30 @@ This project showcases my contributions to building an **AWS-based Data Analytic
  -Used AWS Glue for ETL processing 
  -Queried data using Amazon Athena
  -Answered three business questions based on data analysis  
+![image](https://github.com/user-attachments/assets/4a3064b7-8b95-4cba-8347-da4bccc4e988)
+![image](https://github.com/user-attachments/assets/f5766709-0361-473d-988c-6c20041af5df)
+![image](https://github.com/user-attachments/assets/d4a8a52b-478c-4fe4-9e35-59ef9ca491e2)
 
 ###  Step 2: Data Security  
 -Implemented AWS IAM roles and policies for access contro  
 -Enabled encryption at rest and in transit using AWS KMS 
 -Secured data governance using AWS Lake Formation    
+![image](https://github.com/user-attachments/assets/78c78c31-03e0-4478-974a-55cf63aa2063)
+![image](https://github.com/user-attachments/assets/58035e48-e4bf-4839-849d-84740b4033e5)
 
 ###  Step 3: Data Governance  
  -Configured AWS Lake Formation for metadata management 
  -Implemented fine-grained access policies  
  -Defined auditing capabilities to ensure compliance
+![image](https://github.com/user-attachments/assets/5b98d98c-cc2e-4b31-847c-2071638f8735)
+![image](https://github.com/user-attachments/assets/86119ad8-006d-4e8e-9e9f-5d55fe1b3eb9)
 
 ###  Step 4: Data Monitoring  
  -Used AWS CloudWatch to monitor system health  
  -Enabled AWS CloudTrail to track user activity  
  -Set up AWS Config to track resource configurations 
  -Configured real-time anomaly alerts in CloudWatch
+![image](https://github.com/user-attachments/assets/0e8408ae-b1a1-4aa6-8278-3a8809beb4a4)
+![image](https://github.com/user-attachments/assets/0d3083e0-4428-4821-9ad5-880aad9aad66)
 
 ---

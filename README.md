@@ -30,26 +30,31 @@ This project showcases my contributions to building an **AWS-based Data Analytic
  **Created an S3 Bucket** for storing raw datasets.  
  **Uploaded data** using the AWS S3 web interface.  
  **Set up EC2 Instance** to automate data ingestion.  
+![image](https://github.com/user-attachments/assets/cdfb4c2a-2b24-4920-a528-364e2b0848bd)
 
 
 ###  Step 2: Data Profiling  
  **Analyzed missing values, inconsistencies, and duplicate entries.**  
  **Used AWS Glue DataBrew** for profiling.    
+![image](https://github.com/user-attachments/assets/cf589eb6-2f25-4f0c-98b4-7360a8a06eec)
 
 ###  Step 3: Data Cleaning  
  **Standardized data formats (dates, text fields).**  
  **Removed duplicate and corrupted records.**  
  **Stored cleaned data in S3**   
+![image](https://github.com/user-attachments/assets/5e3f1024-5267-45af-b6ce-7071f8e905c5)
 
 ###  Step 4: Data Cataloging  
  **Created AWS Glue Data Catalog** for structured metadata.  
  **Validated data using Athena SQL queries.**    
+![image](https://github.com/user-attachments/assets/0397d0a1-32e1-4caa-a00d-f0b732403ff4)
 
 ###  Step 5: Data Summarization  
  **Executed Aggregation Queries (ETL) in Glue.**  
  **Visualized data using AWS QuickSight Dashboards.**  
  **Stored summarized reports in S3**  
- 
+ ![image](https://github.com/user-attachments/assets/342d6e0a-b08d-4e06-979f-d41c3004db79)
+
 #  AWS Data Analytics Platform Part 2
 ---
 ##  **Data Processing Steps**  

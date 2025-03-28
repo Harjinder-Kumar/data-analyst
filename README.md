@@ -2,7 +2,7 @@
 #  AWS Data Analytics Platform - Harjinder Kumar
 
 ##  Project Overview  
-This project showcases my contributions to building an **AWS-based Data Analytics Platform (DAP)** for the **City of Vancouver**. The platform enhances **data-driven decision-making** in **urban planning** and **resource management**.  
+The proposed project establishes a Data Analytics Platform (DAP) based on Amazon Web Services (AWS) for **City Of Vancouver to manage data** ingestion and profiling as well as cleaning and cataloging followed by analysis steps and governance functions. When using data-driven insights the City of Vancouver achieves better decision-making procedures.  
 
 ## ** Key Contributions**  
 - **Data Ingestion:** Set up AWS S3 for raw data storage.  
